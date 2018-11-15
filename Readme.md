@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/1533 - CustomFilterItems/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/1533 - CustomFilterItems/MainPage.xaml.vb))
+* [MainPage.xaml.cs](./CS/1533 - CustomFilterItems/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/1533 - CustomFilterItems/MainPage.xaml.vb))
+<!-- default file list end -->
 # How to customize filter items within a column's Filter Dropdown
 
 
